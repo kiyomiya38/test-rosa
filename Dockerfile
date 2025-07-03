@@ -1,2 +1,2 @@
-FROM nginx:1.15
-COPY index.html /usr/share/nginx/html/
+FROM registry.access.redhat.com/ubi8/nginx-120
+COPY index.html /opt/app-root/src/
