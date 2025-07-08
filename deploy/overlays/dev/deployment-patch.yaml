@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: test-html
-          image: docker.io/kiyo37/test-html:dev-latest
+          image: docker.io/kiyo37/test-html
