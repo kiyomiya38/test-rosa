@@ -1,0 +1,5 @@
+namespace: dev-apps
+bases:
+  - ../../base
+patchesStrategicMerge:
+  - deployment-patch.yaml
