@@ -1,0 +1,5 @@
+namespace: prod-apps
+bases:
+  - ../../base
+patchesStrategicMerge:
+  - deployment-patch.yaml
