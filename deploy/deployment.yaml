@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: docker.io/kiyo37/test-html:v202508041100
+          image: docker.io/kiyo37/test-html:v202507071245
           ports:
             - containerPort: 80
